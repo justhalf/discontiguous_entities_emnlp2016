@@ -27,4 +27,5 @@ To cite the code, please use the following:
 
     Aldrian Obaja Muis and Wei Lu. 2016. Learning to Recognize Discontiguous Entities. Proceedings of the 2016
     Conference on Empirical Methods in Natural Language Processing, 75–84. https://doi.org/10.18653/v1/D16-1008.
-    Supplementary Material. Code retrieved from 
+    Supplementary Material. Code retrieved from
+    https://github.com/justhalf/discontiguous_entities_emnlp2016/blob/master/count_graph.py
